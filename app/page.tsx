@@ -14,7 +14,7 @@ const PROJECTS: Project[] = [
   {
     id: 1,
     title: "Project 1: Awesome App",
-    description: "A web application that does awesome things.",
+    description: "A web application that does some awesome things.",
     imgSrc: "/images/awesome-app-screenshot.png",
     alt: "Screenshot of Awesome App",
   },
