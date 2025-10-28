@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-
+// add any other necessary imports here
 type Project = {
   id: number;
   title: string;
